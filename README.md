@@ -119,6 +119,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
   Mollen Commission investigates corruption of the NYPD concluding that “today's corruption is not the corruption of Knapp Commission days. Corruption then was largely a corruption of accommodation, of criminals and police officers giving and taking bribes, buying and selling protection. Corruption was, in its essence, consensual. Today's corruption is characterized by brutality, theft, abuse of authority and active police criminality.” (Milton Mollen)
   
+- **2001**
+
+  In response to the Attacks of September 11 in New York, President George W. Bush declares that the "war on terror begins with al Qaeda but it does not end there. It will not end until every terrorist group of global reach has been found, stopped and defeated." in an address to Congress marking a period of intensifying domestic espionage conducted by U.S. law enforcement, further militirization of police, and the wide-spread racial profiling of Muslims, Arabs, and South Asians.
+  
 - **2006**
 
   The FBI Counterrorism Division [publishes an investigative report](https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/) revealing the historical and widepread infiltration of police departments by white-supremacists terrorist organizations including skin-heads and Nazi's. 
