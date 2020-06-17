@@ -29,19 +29,11 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1808**
 
-  The Act Prohibition the Importing of Slaves is enforced and bans the forced migration of enslaved peoples into the United States.
+  The Act Prohibition the Importing of Slaves is passed by the U.S. Congress banning the kidnapping and forced migration of enslaved peoples into the United States.
 
 - **1818**
 
-  Free and enslaved African Americans create the African Methodist Episcopal (AME) church in Charleston, South Carolina. This same year the Charleston City Guard raids and arrests 140 members of the new religious organization citing a law that forbids gatherings of more than 7 Black men in the company of white citizens.
-
-- **1825**
-
-  The invention of modern policing begins in the United States and England.
-
-- **1832**
-
-  The Londand, England police force is founded.
+  The Charleston City Guard raids and arrests 140 members of the newly formed African Methodist Episcobal (AME) church citing a law that forbids gatherings of more than 7 Black men in the company of white citizens.
 
 - **1838**
 
@@ -57,11 +49,11 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1870**
 
-  In response to civil rights granted to African Americans by the Emancipation Proclamation of 1865, Southern U.S. states begin to subvert federal laws by instating a series of white-supremacist apartheid informally known as “Jim Crow”
+  In response to civil rights granted to African Americans by the Emancipation Proclamation of 1865, Southern U.S. states begin to subvert federal law by instating a segregated white-supremacist legal system for people of color informally known as “Jim Crow.”
 
 - **1880**
 
-  “Modern” police departments are established in major U.S. cities.
+  “Modern” police departments are now established in nearly all major U.S. cities.
 
 - **1894**
 
@@ -90,6 +82,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1943**
 
   O.W. Wilson publishes “Police Administration” which put forth professionalism as an answer to a growing awareness of police corruption. Wilson's texts argue for greater centralization of authority and militarist discipline.
+  
+- **1964**
+
+  The Philidelphia Police Deaprtment establishes the country's first militarized police force that would later be known as Special Weapons and Tactics (SWAT). SWAT teams would be further developed by LAPD in response to civil uprisings such as the Watt's Rebellion and the United Farmers Workers strikes in 1965 onward.
 
 - **1968**
 
@@ -106,6 +102,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1980**
 
   In response to decreased budgets due to economic recessions, “Taylorization of the Police” begins in an effort increase efficiency of law enforcement and reduce labor costs. Police also adopt “community policing” strategies to improve their public image.
+  
+- **1981**
+
+  U.S. Congress passes the Military Cooperation with Law Enforcement Act which would further militarize police forces across the country and mark the beginning of the "War on Drugs." Militarized intelligence, weaponry, tactics, and cooperations with the Pentagon would continue empower SWAT teams regular police officers alike.
 
 - **1991**
 
