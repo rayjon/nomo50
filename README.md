@@ -77,7 +77,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
   
 - **1935**
 
-  A brutal parmillatary force known as the Texas ranger responsible for numberous massacres of Indigenous Texan and Mexican peoples is merged with the Texas Highway Patrol to create the Texas Department of Public Safety. The Texas Rangers are legally protected from being disbanded by the Texas State government.
+  A brutal parmillatary force known as the Texas Rangers responsible for [numberous massacres of Indigenous Texans and Mexicans](https://www.texasstandard.org/stories/texas-exhibit-refuses-to-forget-one-of-the-worst-periods-of-state-sanctioned-violence/) is merged with the Texas Highway Patrol to create the Texas Department of Public Safety. The Texas Rangers are legally protected from being disbanded by the Texas State government.
 
 - **1943**
 
