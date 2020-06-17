@@ -35,10 +35,6 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
   The first U.S. police department is founded in Boston. The primary targets of policing are European immigrants and African Americans both free and enslaved.
 
-- **1845**
-
-  The New York City Police Department is established bringing professionalism, centralization and a militaristic command hierarchy to police officers.
-
 - **1860**
 
   The Ku Klux Klan, a white supremacist terrorist organization notorious for assault and lynchings upon people of color begins to take form.
@@ -49,7 +45,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1880**
 
-  “Modern” police departments are now established in nearly all major U.S. cities.
+  Following the founding of police operations in New York City (1845), Albany, NY (1851), Chicago, IL (1851), New Orleans, LA (1853), Cincinnati, OH (1853), Philadelphia, PA (1855), Newark, NJ (1857), and Baltimore, MD (1857), “modern” police forces are now established in nearly all major U.S. cities. They become infamous for their corruption, brutality, ties with organized crime, political exploitation.
 
 - **1894**
 
@@ -65,7 +61,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1919**
 
-  The Prohibition Act outlaws alcohol sale and consumption in the US leading to the growth of large crime syndicates who were able to prosper through cooperation with corrupt police departments.
+  The Volstead Act is passed prohibiting the sale and consumption of alcohol in the US leading to massive growths of corruption of police departments nations-wide as they collaborated with organized crime to enrich themselves by subverting the law.
 
 - **1929**
 
@@ -82,6 +78,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1943**
 
   O.W. Wilson publishes “Police Administration” which put forth professionalism as an answer to a growing awareness of police corruption. Wilson's texts argue for greater centralization of authority and militarist discipline.
+
+- **1956**
+
+The Fedaral Beaurou of Investigation (FBI) establisthes the Counter Intellegince Program (COINTELPRO) which would set a new precedent for domestic espionage, psychogical warfare, milltary operations, and assianations to combat and subvert progressive organizations such as Community Party USA, the Blank Panther Party, the American Indian Movement, and the Young Lordes along with notable civil rights learders such as Erica Huggins, Assata Shakur, Malcolm X, Fred Hampton, and Mumia Abu Jamal.
   
 - **1964**
 
@@ -89,9 +89,11 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1968**
 
-  Omnibus Crime Control and Safe Streets Act is passed bringing greater federal budgets for police-community relations programs to improve the public image of the police.
+  Omnibus Crime Control and Safe Streets Act is passed bringing greater federal budgets for police-community relations programs to improve the public image of the police. This same year the Chicago Police Riot occurs in Grant Park during the Democratic National Conventions as police indiscrimately attacked thousands of protesters.
 
 - **1970**
+
+  The Kent State Massacre occurs at Kent State in Ohio where 13 unarmed university students are shot by the National Guard during a peacful anti-Vietnam War protest.
 
   Police unions form in major U.S. Cities in response to the professionalism movement of the 1950’s set forth by O. W. Wilson and an increasing awareness of police brutality.
 
@@ -105,9 +107,9 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1991**
 
-  Cab driver Rodney King is struck over 50 times by baton wielding officers of the LAPD and publicized to a wide television audiences. The police officers involved were acquitted of all charges.
+  Cab driver Rodney King is struck over 50 times by baton wielding officers of the LAPD and publicized to television audiences nation wide. The police officers involved were acquitted of all charges spurring massive rebillions in Los Angeles. 
   
-  In response, the Christopher Commission is enacted to investigate the LAPD for corruption. The commissions findings include “There is a significant number of officers in the LAPD who repetitively use excessive force against the public and persistently ignore the written guidelines of the department regarding force.”
+  In response, the Christopher Commission is enacted to investigate the LAPD for corruption. The commission's major findings include that “there is a significant number of officers in the LAPD who repetitively use excessive force against the public and persistently ignore the written guidelines of the department regarding force.”
 
 - **1993**
 
