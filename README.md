@@ -81,7 +81,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1956**
 
-The Fedaral Beaurou of Investigation (FBI) establisthes the Counter Intellegince Program (COINTELPRO) which would set a new precedent for domestic espionage, psychogical warfare, milltary operations, and assianations to combat and subvert progressive organizations such as Community Party USA, the Blank Panther Party, the American Indian Movement, and the Young Lordes along with notable civil rights learders such as Erica Huggins, Assata Shakur, Malcolm X, Fred Hampton, and Mumia Abu Jamal.
+  The Fedaral Beaurou of Investigation (FBI) establisthes the Counter Intellegince Program (COINTELPRO) which would set a new precedent for domestic espionage, psychogical warfare, milltary operations, and assianations to combat and subvert progressive organizations such as Community Party USA, the Blank Panther Party, the American Indian Movement, and the Young Lordes along with notable civil rights learders such as Erica Huggins, Assata Shakur, Malcolm X, Fred Hampton, and Mumia Abu Jamal.
   
 - **1964**
 
