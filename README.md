@@ -11,10 +11,6 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 ## Crticial Timeline of U.S. Policing
 
-- **1636**
-
-  Night Watch is organized in Boston requiring members to patrol the streets at night for criminal activity.
-
 - **1704**
 
   The first slave patrols are founded in South Carolina and will terrorize communities of color for the next 150 years. The main functions of patrols are to apprehended escaped enslaved peoples, provide organized terror to deter revolts of enslaved peoples, and punish and discipline enslaved peoples in a segregated legal system i.e. Jim Crow. These vigilante groups would later evolve into Southern U.S. police departments tasked with enforcing apartheid-like Jim Crow laws against "non-white" peoples.
@@ -89,15 +85,11 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1968**
 
-  Omnibus Crime Control and Safe Streets Act is passed brining large federal budgets for police-community relations programs to improve the public image of the police.
+  Omnibus Crime Control and Safe Streets Act is passed bringing greater federal budgets for police-community relations programs to improve the public image of the police.
 
 - **1970**
 
   Police unions form in major U.S. Cities in response to the professionalism movement of the 1950’s set forth by O. W. Wilson and an increasing awareness of police brutality.
-  
-- **1972**
-
-  Knapp Commission exposes corruption in the NYPD involving frequent extortion attempts and vigilantism by police officers upon citizens.
 
 - **1980**
 
@@ -116,3 +108,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1993**
 
   Mollen Commission investigates corruption of the NYPD concluding that “today's corruption is not the corruption of Knapp Commission days. Corruption then was largely a corruption of accommodation, of criminals and police officers giving and taking bribes, buying and selling protection. Corruption was, in its essence, consensual. Today's corruption is characterized by brutality, theft, abuse of authority and active police criminality.” (Milton Mollen)
+  
+- **2006**
+
+  The FBI Counterrorism Division [publishes an investigative report](https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/) revealing the historical and widepread infiltration of police departments by white-supremacists terrorist organizations including skin-heads and Nazi's. 
