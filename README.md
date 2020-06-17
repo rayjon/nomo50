@@ -9,4 +9,134 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - Reading Lists
 - Further Resources
 
+## Crticial Timeline of U.S. Policing
 
+- **1636**
+
+  Night Watch is organized in Boston requiring members to patrol the streets at night for criminal activity.
+
+- **1704**
+
+  The first slave patrols are founded in South Carolina and will terrorize communities of color for the next 150 years. The main functions of patrols are to apprehended escaped enslaved peoples, provide organized terror to deter revolts of enslaved peoples, and punish and discipline enslaved peoples in a segregated legal system i.e. Jim Crow. These vigilante groups would later evolve into Southern U.S. police departments tasked with enforcing apartheid-like Jim Crow laws against "non-white" peoples.
+
+- **1793**
+
+  Fugitive Slave laws are passed in the U.S. Congress allowing the capture and return of enslaved peoples to their oppressors.
+
+- **1808**
+
+  U.S. Congress bans the importation of enslaved peoples.
+
+- **1818**
+
+  Free and enslaved African Americans create the African Methodist Episcopal (AME) church in Charleston, South Carolina. This same year the Charleston City Guard raids and arrests 140 members of the new religious organization citing a law that forbids gatherings of more than 7 Black men in the company of white citizens.
+
+- **1820**
+
+  The Charleston Guard Watch reaches a recognizable form and consistently performs daily harassment of enslaved Africans.
+
+- **1822**
+
+  White citizens in Charleston, wary of a rebellion of enslaved people, call for professionalization and enlargement of the City Guard resulting 24-duty and command centralization.
+
+- **1825**
+
+  The invention of modern policing begins in the United States and England.
+
+- **1829**
+
+  David Walker of Boston authors the Appeal to the Colored Citizens of the World. 
+
+- **1832**
+
+  The police force is founded in London, England.
+
+- **1838**
+
+  The first U.S. police department is founded in 1838 in Boston who’s primary targets included European immigrants and African Americans.
+
+- **1842**
+
+  The Citadel, a building for housing weaponry and City Guard members begin housing military academy members and state militia.
+
+- **1845**
+
+  The New York City Police Department is established bringing professionalism, centralization and a militaristic command hierarchy to police officers.
+
+- **1850**
+
+  U.S. Congress passes second Fugitive Slave Law
+
+- **1860**
+
+  The Ku Klux Klan, a white supremacist terrorist organization notorious for assault and lynchings upon people of color begins to take form.
+
+- **1865**
+
+  Emancipation Proclomation is passed, outlawing the chattel slave system in all U.S. States.
+
+- **1870**
+
+  In response to freedoms awarded to African Americans awarded full citizenship by the Emancipation Proclamation, Southern U.S. states begin to subvert racial equality by instating a series of white-supremacist laws informally known as “Jim Crow”
+
+- **1871**
+
+  Congress passes the Ku Klux Clan Act, prohibiting States from violating the civil rights of citizens as a response to the KKK infiltration into law enforcement.
+
+- **1880**
+
+  “Modern” police departments are in place in most U.S. cities.
+
+- **1894**
+
+  The Lennox Committee is formed to investigate police corruption in New York related to gambling and prostitution rings, bribery, and extortion.  
+
+- **1913**
+
+  Curran Committee report is published exposing further corruption within the NYPD involving gambling and protitution rings.
+
+- **1916**
+
+  August Vollmer introduces the idea of a crime laboratory calling for use of lie detectors and databases for storing crime statistics paving the way for the use of fingerprinting, serology, toxicology, and other scientific evidence collection.
+
+- **1919**
+
+  The Prohibition Act outlaws alcohol sale and consumption in the US leading to the growth of large crime syndicates who were able to prosper through cooperation with corrupt police departments.
+
+- **1929**
+
+  The Wickersham Commission is established to investigate Police corruption in the wake of Prohibition and finds “the inflicting of pain, physical or mental, to extract confessions or statements... is widespread throughout the country”
+
+- **1932**
+
+  Hoftstadter/Seabury Committee investigation into corruption in the NYPD exposes a conspiracy developed by judges, attorneys, police and bail bondsmen to extort money from defendants facing trial. The primary victims of this conspiracy were working-class women.
+
+- **1943**
+
+  O.W. Wilson publishes “Police Administration” which put forth professionalism as an answer to a growing mainstream awareness of the police corruption auguring for further centralization of authority and militarist discipline.
+
+- **1968**
+
+: Omnibus Crime Control and Safe Streets Act is passed calling for large federal budgets for police-community relations programs to improve the public image of the police
+
+- **1970**
+
+  Police Unions, a response to the authoritarian, militarist professionalism movement of the 1950’s and increasing awareness of police brutality are present in most major U.S. cities.
+
+- **1972**
+
+  Knapp Commission exposes corruption in the NYPD involving frequent extortion attempts and vigilantism by police officers upon citizens.
+
+- **1980**
+
+  In response to decreased budgets due to economic recessions, “Taylorization of the Police” begins in an effort increase efficiency of law enforcement and reduce labor costs. Police also adopt “community policing” strategies to improve public image.
+
+- **1991**
+
+  Cab driver Rodney King is struck over 50 times by baton wielding officers of the LAPD and publicized to a wide television audiences. The police officers involved were acquitted of all charges.
+  
+  In response, the Christopher Commission is enacted to investigate the LAPD for corruption. The commissions findings include “There is a significant number of officers in the LAPD who repetitively use excessive force against the public and persistently ignore the written guidelines of the department regarding force.”
+
+**1993**
+
+  Mollen Commission investigates corruption of the NYPD concluding that “today's corruption is not the corruption of Knapp Commission days. Corruption then was largely a corruption of accommodation, of criminals and police officers giving and taking bribes, buying and selling protection. Corruption was, in its essence, consensual. Today's corruption is characterized by brutality, theft, abuse of authority and active police criminality.” (Milton Mollen)
