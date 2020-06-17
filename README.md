@@ -96,6 +96,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
   The Kent State Massacre occurs at Kent State in Ohio where 13 unarmed university students are shot by the National Guard during a peacful anti-Vietnam War protest.
 
   Police unions form in major U.S. Cities in response to the professionalism movement of the 1950’s set forth by O. W. Wilson and an increasing awareness of police brutality.
+  
+ - **1971
+ 
+   U.S. President Richard Nixon declares the "War on Drugs" introducing no-knock warrant enformance and mandatory sentencing and setting the stage for mass incarceration of people of color.
 
 - **1980**
 
@@ -103,7 +107,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
   
 - **1981**
 
-  U.S. Congress passes the Military Cooperation with Law Enforcement Act which would further militarize police forces across the country and mark the beginning of the "War on Drugs." Militarized intelligence, weaponry, tactics, and cooperations with the Pentagon would continue empower SWAT teams regular police officers alike.
+  U.S. Congress passes the Military Cooperation with Law Enforcement Act which would further militarize police forces across the country excaerbating the "War on Drugs." Militarized intelligence, weaponry, tactics, and cooperations with the Pentagon would continue empower SWAT teams regular police officers alike.
 
 - **1991**
 
@@ -118,3 +122,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **2006**
 
   The FBI Counterrorism Division [publishes an investigative report](https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/) revealing the historical and widepread infiltration of police departments by white-supremacists terrorist organizations including skin-heads and Nazi's. 
+  
+- **2017**
+
+  Michigan becomes the last state to ban undercover officers involved in protitution stings from [having sex with their targets](https://www.vice.com/en_ca/article/paz88m/michigan-sex-workers-bill-passes-senate).
