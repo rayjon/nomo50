@@ -74,6 +74,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1932**
 
   Hoftstadter/Seabury Committee investigation into corruption in the NYPD exposes a conspiracy developed by judges, attorneys, police and bail bondsmen to extort money from defendants facing trial. The primary victims of this conspiracy were working-class women.
+  
+- **1935**
+
+  A brutal parmillatary force known as the Texas ranger responsible for numberous massacres of Indigenous Texan and Mexican peoples is merged with the Texas Highway Patrol to create the Texas Department of Public Safety. The Texas Rangers are legally protected from being disbanded by the Texas State government.
 
 - **1943**
 
