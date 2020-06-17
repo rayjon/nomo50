@@ -113,6 +113,6 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
   
   In response, the Christopher Commission is enacted to investigate the LAPD for corruption. The commissions findings include “There is a significant number of officers in the LAPD who repetitively use excessive force against the public and persistently ignore the written guidelines of the department regarding force.”
 
-**1993**
+- **1993**
 
   Mollen Commission investigates corruption of the NYPD concluding that “today's corruption is not the corruption of Knapp Commission days. Corruption then was largely a corruption of accommodation, of criminals and police officers giving and taking bribes, buying and selling protection. Corruption was, in its essence, consensual. Today's corruption is characterized by brutality, theft, abuse of authority and active police criminality.” (Milton Mollen)
