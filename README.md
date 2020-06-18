@@ -121,6 +121,14 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
   Mollen Commission investigates corruption of the NYPD concluding that “today's corruption is not the corruption of Knapp Commission days. Corruption then was largely a corruption of accommodation, of criminals and police officers giving and taking bribes, buying and selling protection. Corruption was, in its essence, consensual. Today's corruption is characterized by brutality, theft, abuse of authority and active police criminality.” (Milton Mollen)
   
+- **1997**
+
+  The National Defence Authroization Act of 1997 creates the [1033 program](https://en.wikipedia.org/wiki/Law_Enforcement_Support_Office) increasing the access to millitary equipment for police departments nation-wide.
+  
+ - **1984**
+ 
+   The Asset Forfetuire Fund is established in the U.S. Department of Justice leading to [massive increases in Civil Asset Forfeiture](https://www.splcenter.org/news/2019/04/16/what-supreme-court-ruling-could-mean-civil-asset-forfeiture) allowing police departments to purchase greater amounts of weaponry and equipment. 
+  
 - **2001**
 
   In response to the Attacks of September 11 in New York, President George W. Bush declares that the "war on terror begins with al Qaeda but it does not end there. It will not end until every terrorist group of global reach has been found, stopped and defeated." in an address to Congress marking a period of intensifying domestic espionage conducted by U.S. law enforcement, further militirization of police, and the wide-spread racial profiling of Muslims, Arabs, and South Asians.
