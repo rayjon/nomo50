@@ -34,7 +34,11 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1838**
 
   The first U.S. police department is founded in Boston. The primary targets of policing are European immigrants and African Americans both free and enslaved.
+  
+- **1857**
 
+  Baltimore, MD police are [issued Colt Caplock .31 Cal. revolvers](https://baltimorepolicemuseum.com/en/k2/weapons.html) becoming the first the department in the nation to carry handguns. 
+  
 - **1860**
 
   The Ku Klux Klan, a white supremacist terrorist organization notorious for assault and lynchings upon people of color begins to take form.
@@ -42,6 +46,9 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1870**
 
   In response to civil rights granted to African Americans by the Emancipation Proclamation of 1865, Southern U.S. states begin to subvert federal law by instating a segregated white-supremacist legal system for people of color informally known as “Jim Crow.”
+  
+
+  Constable Wyatt Outlaw is the [first African American police officer killed in the line of duty](https://blackthen.com/the-murder-of-wyatt-outlaw/). He was kidnapped and lynched by members of the Ku Klux Klan.
 
 - **1880**
 
