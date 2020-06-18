@@ -103,6 +103,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1968**
 
   Omnibus Crime Control and Safe Streets Act is passed bringing greater federal budgets for police-community relations programs to improve the public image of the police. This same year the Chicago Police Riot occurs in Grant Park during the Democratic National Conventions as police indiscrimately attacked thousands of protesters.
+  
+- **1969**
+
+  Police raid the Stonewall Inn of New York City sparking an [uprising of LGBTQ+ peoples](https://www.theatlantic.com/politics/archive/2013/01/an-amazing-1969-account-of-the-stonewall-uprising/272467/) resulting in the deaths of Marsha P. Johnson and Sylvia Rivera and the modern Pride movement.
 
 - **1970**
 
