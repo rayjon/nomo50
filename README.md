@@ -71,6 +71,8 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
   Hoftstadter/Seabury Committee investigation into corruption in the NYPD exposes a conspiracy developed by judges, attorneys, police and bail bondsmen to extort money from defendants facing trial. The primary victims of this conspiracy were working-class women.
   
+  The U.S. Millatary is deployed to break up the Bonus Army March, a protest of World War 1 veterans in Washington D.C., in the first major [documented use of tear gas](https://www.theatlantic.com/international/archive/2014/08/100-years-of-tear-gas/378632/) againt civillians.
+  
 - **1935**
 
   A brutal parmillatary force known as the Texas Rangers responsible for [numberous massacres of Indigenous Texans and Mexicans](https://www.texasstandard.org/stories/texas-exhibit-refuses-to-forget-one-of-the-worst-periods-of-state-sanctioned-violence/) is merged with the Texas Highway Patrol to create the Texas Department of Public Safety. The Texas Rangers are legally protected from being disbanded by the Texas State government.
