@@ -106,9 +106,13 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
   Police unions form in major U.S. Cities in response to the professionalism movement of the 1950’s set forth by O. W. Wilson and an increasing awareness of police brutality.
   
- - **1971
+- **1971**
  
    U.S. President Richard Nixon declares the "War on Drugs" introducing no-knock warrant enformance and mandatory sentencing and setting the stage for mass incarceration of people of color.
+   
+- **1974**
+
+  The Berkeley (CA) Police Department becomes the country’s first agency to have all patrol officers using automobiles.
 
 - **1980**
 
