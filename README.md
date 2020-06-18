@@ -61,6 +61,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1913**
 
   Curran Committee report is published exposing further corruption within the NYPD involving gambling and protitution rings.
+  
+- **1914**
+
+  The Berkeley (CA) Police Department becomes the country’s first agency to have all patrol officers using automobiles
 
 - **1916**
 
@@ -109,10 +113,10 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **1971**
  
    U.S. President Richard Nixon declares the "War on Drugs" introducing no-knock warrant enformance and mandatory sentencing and setting the stage for mass incarceration of people of color.
-   
+
 - **1974**
 
-  The Berkeley (CA) Police Department becomes the country’s first agency to have all patrol officers using automobiles.
+  Police start wearing soft body armor to protect themselves against handgun assaults.
 
 - **1980**
 
@@ -151,3 +155,8 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 - **2017**
 
   Michigan becomes the last state to ban undercover officers involved in protitution stings from [having sex with their targets](https://www.vice.com/en_ca/article/paz88m/michigan-sex-workers-bill-passes-senate).
+  
+  
+## References
+  
+- [Important Dates in Law Enforcement History](https://nleomf.org/facts-figures/important-dates-in-law-enforcement-history)
