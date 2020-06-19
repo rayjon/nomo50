@@ -1,13 +1,13 @@
 # No Mo 5-0
 
-The brutal murders of people of color, namely Brenna Taylor and George Floyd, by police officers in the United States has brought wide-public awareness to centruies-old problems. **No Mo 5-0** is a digital resource for police abolition that seeks to provide an understanding of the issues surrounding policing and will serve as a hub of many others for empowerment and connection. In this tool-kit, you'll find...
+The brutal murders of Brenna Taylor and George Floyd by police officers in the United States brought greater public awareness to centruies-old problems. **No Mo 5-0** is a digital resource for police abolition that seeks to provide an understanding of the inherent injustice surrounding policing. In this tool-kit, you'll find...
 
-- Definitions for key terms
-- Organizations involved in abolition work
-- Prominent Activist
-- History of Policing
-- Reading Lists
-- Further Resources
+- Definitions for key terms (coming)
+- Organizations involved in abolition work (coming)
+- Prominent Activist (coming)
+- History of Policing (in progress, see below)
+- Reading Lists (coming)
+- Further Resources (in progress)
 
 ## Crticial Timeline of U.S. Policing
 
@@ -66,7 +66,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
   
 - **1914**
 
-  The Berkeley (CA) Police Department becomes the country’s first agency to have all patrol officers using automobiles under the influcece of August Vollmer. Volmer became cheif of the Berkeley PD and also [developed the technology and idology](https://www.berkeleyside.com/2010/01/27/remembering-august-vollmer-the-berkeley-police-chief-who-created-modern-policing) that would become the foundations of modern police.
+  The Berkeley (CA) Police Department becomes the first agency to grant automobiles to patrol officers under the leadership of August Vollmer who also became cheif of the department and added a [technological ideology](https://www.berkeleyside.com/2010/01/27/remembering-august-vollmer-the-berkeley-police-chief-who-created-modern-policing) to the foundations of modern policing.
 
 - **1919**
 
