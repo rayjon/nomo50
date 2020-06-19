@@ -169,3 +169,4 @@ This timeline seeks to present a critical take on the story of policing in the U
   
 - [Important Dates in Law Enforcement History](https://nleomf.org/facts-figures/important-dates-in-law-enforcement-history)
 - [The History of Policing in the United States](https://plsonline.eku.edu/sites/plsonline.eku.edu/files/the-history-of-policing-in-us.pdf)
+- [https://libcom.org/history/origins-police-david-whitehouse](https://libcom.org/history/origins-police-david-whitehouse)
