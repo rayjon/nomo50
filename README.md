@@ -165,7 +165,7 @@ This timeline seeks to present a critical take on the story of policing in the U
   Michigan becomes the last state to ban undercover officers involved in protitution stings from [having sex with their targets](https://www.vice.com/en_ca/article/paz88m/michigan-sex-workers-bill-passes-senate).
   
   
-## References
+## Further References
   
 - [Important Dates in Law Enforcement History](https://nleomf.org/facts-figures/important-dates-in-law-enforcement-history)
 - [The History of Policing in the United States](https://plsonline.eku.edu/sites/plsonline.eku.edu/files/the-history-of-policing-in-us.pdf)
