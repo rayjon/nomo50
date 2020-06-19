@@ -11,6 +11,8 @@ The brutal murders of Brenna Taylor and George Floyd by police officers in the U
 
 ## Crticial Timeline of U.S. Policing
 
+This timeline seeks to present a critical take on the story of policing in the United States. It will highlight areas of persistent corruption within policing as a whole, major events furthering the opressive nature of the intitution, and significant events involving immigratnts, women, impoverished people, people of color, and LGBTQ+. 
+
 - **1704**
 
   The first slave patrols are founded in South Carolina and will terrorize communities of color for the next 150 years. The main functions of patrols are to apprehended escaped enslaved peoples, provide organized terror to deter revolts of enslaved peoples, and punish and discipline enslaved peoples in a segregated legal system i.e. Jim Crow. These vigilante groups would later evolve into Southern U.S. police departments tasked with enforcing apartheid-like Jim Crow laws against "non-white" peoples.
