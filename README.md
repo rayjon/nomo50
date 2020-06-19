@@ -66,11 +66,7 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
   
 - **1914**
 
-  The Berkeley (CA) Police Department becomes the country’s first agency to have all patrol officers using automobiles
-
-- **1916**
-
-  August Vollmer introduces the idea of a crime laboratory calling for use of lie detectors and databases for storing crime statistics paving the way for the use of fingerprinting, serology, toxicology, and other scientific evidence collection.
+  The Berkeley (CA) Police Department becomes the country’s first agency to have all patrol officers using automobiles under the influcece of August Vollmer. Volmer became cheif of the Berkeley PD and also [developed the technology and idology](https://www.berkeleyside.com/2010/01/27/remembering-august-vollmer-the-berkeley-police-chief-who-created-modern-policing) that would become the foundations of modern police.
 
 - **1919**
 
