@@ -166,3 +166,4 @@ The brutal murders of Brenna Taylor and George Floyd by police officers in the U
 ## References
   
 - [Important Dates in Law Enforcement History](https://nleomf.org/facts-figures/important-dates-in-law-enforcement-history)
+- [The History of Policing in the United States](https://plsonline.eku.edu/sites/plsonline.eku.edu/files/the-history-of-policing-in-us.pdf)
