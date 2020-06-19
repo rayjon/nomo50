@@ -52,7 +52,9 @@ The brutal murders of people of color, namely Brenna Taylor and George Floyd, by
 
 - **1880**
 
-  Following the founding of police operations in New York City (1845), Albany, NY (1851), Chicago, IL (1851), New Orleans, LA (1853), Cincinnati, OH (1853), Philadelphia, PA (1855), Newark, NJ (1857), and Baltimore, MD (1857), “modern” police forces are now established in nearly all major U.S. cities. They become infamous for their corruption, brutality, ties with organized crime, political exploitation.
+  “Modern” police forces are now established in nearly all major U.S. cities. They soon become infamous for their corruption, brutality, ties with organized crime, political exploitation.
+  
+  The United States Indian Police is also established and given jurisdiction over the "five civilized tribes" [subverting the traditional systems of justice](https://www.sdhspress.com/journal/south-dakota-history-29-3/reservation-akicitas-the-pine-ridge-indian-police-1879-1885/vol-29-no-3-reservation-akicitas.pdf) practiced by the First Nations.
 
 - **1894**
 
